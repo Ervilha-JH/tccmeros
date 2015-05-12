@@ -5,14 +5,15 @@ Etec de Mauá
 ---------------------------------
 
 Grupo Meros
+
 Integrantes
-  -Leonardo Monteior
-  -Marcos Carvalho
-  -Carlos Lima
-  -Nikolas Silva
-  -Bruno Ferreira
+
+Leonardo Monteiro
+Marcos Carvalho
+Carlos Lima
+Nikolas Silva
+Bruno Ferreira
   
 ---------------------------------
 Projeto:
-
 ViagemFácil
