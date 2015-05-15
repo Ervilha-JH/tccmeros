@@ -1,7 +1,6 @@
-tccmeros
-Etec de Mauá - TCC - Grupo Meros
-Trabalho de Conclusão de Curso
-Etec de Mauá
+#Etec de Mauá - TCC - Grupo Meros
+#Trabalho de Conclusão de Curso
+#Etec de Mauá
 ---------------------------------
 
 Grupo Meros
