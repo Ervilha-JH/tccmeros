@@ -7,11 +7,11 @@ Grupo Meros
 
 Integrantes
 
--Leonardo Monteiro
--Marcos Carvalho
--Carlos Lima
--Nikolas Silva
--Bruno Ferreira
+  -Leonardo Monteiro
+  -Marcos Carvalho
+  -Carlos Lima
+  -Nikolas Silva
+  -Bruno Ferreira
   
 ---------------------------------
 Projeto:
