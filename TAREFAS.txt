@@ -8,12 +8,12 @@
 
 CONCLUIDO!
 ==================================================
-[]EMPREEDEDORISMO
+[OK]EMPREEDEDORISMO
 
-[]AULA 1
+[OK]AULA 1
 
-[]AULA 2
+[OK]AULA 2
 
-
+[OK]AULA 3
 ==================================================
 
