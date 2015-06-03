@@ -1,0 +1,135 @@
+body
+{
+	margin: 0px;
+	padding: 0px;
+	background-color: #fd8f02;
+}
+header 
+{
+	background-color:#ff7f00;
+	text-align: center;
+	height: 60px;
+	margin-right:  -10px;
+	margin-left: -10px;
+	font-family: "Tahoma";
+	border-top: 2px solid #0066cc;
+}
+.img-logo
+{
+	text-align: center;
+}
+.menu
+{
+	margin-top: 30px;
+	float: right;
+	border: 5px solid #000;
+	background-color: #060606;
+
+}
+a
+{
+	float: left;
+	border-right: 1px solid #00dbf0;
+	padding: 0px 15px;
+	color: #fff;
+	text-decoration: none;
+
+}
+a:hover
+{
+	background-color: #2b2a2a;
+}
+.carousel
+{
+	height: 560px;
+	width: 85%;
+	background:url(img-fundo2.jpg);
+	background-repeat:no-repeat;
+	background-position: center;
+	padding-top: 40px;
+	position: solid center;
+	margin-left: 10%;
+}
+.cell
+{
+	margin-top: 100px;
+	background-image:url(img-cell.png);
+	width: 269px;
+	height: 594px;
+	float: left;
+	
+}
+p
+{
+	margin-top:250px;
+	text-align:center;
+	color:#fff;
+	font: 22px "verdana";
+	background-color: blue;
+	opacity: 0.6;
+	width: 900px;
+	float: right;
+
+}
+.details
+{
+	width: 85%;	
+	padding-left: 10%;
+}
+.intro
+{
+
+	height: 30px;
+	text-align: center;
+	background-color: #007ca9;
+	border: solid #8ec1da 1px;
+}
+.begin
+{
+	height: 300px;
+	text-align: center;
+	background-color: #fd5c01;
+	border: solid #fd4a00 10px;
+}
+.second
+{
+	height: 300px;
+	text-align: center;
+	background-color: #fd5c01;
+	border: solid #fd4a00 10px;
+}
+.third
+{
+	height: 300px;
+	text-align: center;
+	background-color: #fd5c01;
+	border: solid #fd4a00 10px;
+}
+.fourth
+{
+	height: 300px;
+	text-align: center;
+	background-color: #fd5c01;
+	border: solid #fd4a00 10px;
+}
+footer
+{
+	background-color: #060606;
+	height: 40px;
+	width: 100%;
+
+	
+}
+.nossos-produtos
+{
+	float: left;
+	margin-left: 15%;
+}
+.institucional
+{
+
+}
+.contato
+{
+	
+}
