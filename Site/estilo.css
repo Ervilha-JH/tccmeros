@@ -43,11 +43,12 @@ a:hover
 {
 	height: 560px;
 	width: 85%;
-	background:url(img-fundo2.jpg);
+	background:url(img-fundo2.jpg) fixed;
 	background-repeat:no-repeat;
 	background-position: center;
 	padding-top: 40px;
 	position: solid center;
+
 	margin-left: 10%;
 }
 .cell
