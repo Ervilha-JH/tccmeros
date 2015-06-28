@@ -5,16 +5,10 @@
 [OK]GRAFICO 17/04/15
 [OK]PESQUISA INTERNA E EXTERNA 17/04
 [OK]ESTUDO DE CENARIO 17/04
-
+[  ]ANALISE FOFA(SWOT)
 CONCLUIDO!
 ==================================================
 [OK]EMPREEDEDORISMO
-
-[OK]AULA 1
-
-[OK]AULA 2
-
-[OK]AULA 3
 ==================================================
 
 
