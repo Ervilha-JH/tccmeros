@@ -7,6 +7,7 @@
 [OK]ESTUDO DE CENARIO 17/04
 [  ]ANALISE FOFA(SWOT)
 CONCLUIDO!
+ta tudo errado, faz denovo
 ==================================================
 [OK]EMPREEDEDORISMO
 ==================================================
